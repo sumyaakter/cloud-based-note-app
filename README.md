@@ -1,4 +1,4 @@
-# Cloud Based Notes Application - UI Prototype
+# Cloud Based Notes Application 
 
 ## Key Features
 
